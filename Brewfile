@@ -42,6 +42,11 @@ brew pcre
 brew pkg-config
 brew tree
 brew unixodbc
+brew android-sdk
+# git
+brew git
+brew hub
+brew tig
 
 # Below applications were installed by Cask,
 # but do not have corresponding casks.
@@ -49,6 +54,25 @@ brew unixodbc
 #cask ==> We need to make Caskroom for the first time at /opt/homebrew-cask/Caskroom
 #cask ==> We'll set permissions properly so we won't need sudo in the future
 #cask Warning: nothing to list
+cask google-chrome
+cask google-japanese-ime
+cask dropbox
+cask sequel-pro
+cask bettertouchtool
+cask virtualbox
+cask firefox
+cask heroku-toolbelt
+cask skype
+cask github
+cask vagrant
+cask vagrant-manager
+cask adobe-creative-cloud
+cask java
+cask android-studio
+cask genymotion
+cask sublime-text
+cask sourcetree
+cask boot2docker
 
 # App Store applications
 appstore Airmail
