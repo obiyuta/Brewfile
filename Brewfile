@@ -73,6 +73,13 @@ cask genymotion
 cask sublime-text
 cask sourcetree
 cask boot2docker
+#Quicklook
+cask qlcolorcode
+cask qlstephen
+cask qlmarkdown
+cask quicklook-json
+cask quicklook-csv
+cask qlimagesize
 
 # App Store applications
 appstore Airmail
