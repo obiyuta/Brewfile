@@ -43,6 +43,7 @@ brew pkg-config
 brew tree
 brew unixodbc
 brew android-sdk
+brew tmux
 # git
 brew git
 brew hub
