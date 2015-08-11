@@ -44,6 +44,8 @@ brew tree
 brew unixodbc
 brew android-sdk
 brew tmux
+# share clipboard between OS <-> tmux
+brew reattach-to-user-namespace
 # git
 brew git
 brew hub
