@@ -51,6 +51,13 @@ brew git
 brew hub
 brew tig
 
+# R lang
+tap homebrew/science
+brew gcc
+brew r
+cask xquartz
+cask rstudio
+
 # Below applications were installed by Cask,
 # but do not have corresponding casks.
 
