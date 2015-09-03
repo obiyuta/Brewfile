@@ -58,6 +58,10 @@ brew r
 cask xquartz
 cask rstudio
 
+# kobito
+tap suin/suin
+brew kobito-cli
+
 # Below applications were installed by Cask,
 # but do not have corresponding casks.
 
@@ -83,6 +87,7 @@ cask genymotion
 cask sublime-text
 cask sourcetree
 cask boot2docker
+cask keycastr
 #Quicklook
 cask qlcolorcode
 cask qlstephen
