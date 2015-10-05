@@ -43,7 +43,9 @@ brew pkg-config
 brew tree
 brew unixodbc
 brew android-sdk
+brew macvim
 brew tmux
+brew nmap
 # share clipboard between OS <-> tmux
 brew reattach-to-user-namespace
 # git
@@ -88,6 +90,7 @@ cask sublime-text
 cask sourcetree
 cask boot2docker
 cask keycastr
+cask processing
 #Quicklook
 cask qlcolorcode
 cask qlstephen
