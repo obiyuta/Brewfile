@@ -1,5 +1,3 @@
-# Brewfile ==> Brewfile manager for Homebrew
-# https://github.com/rcmdnk/homebrew-file
 
 # tap repositories and their packages
 
@@ -21,6 +19,43 @@ brew brew-file
 ## caskroom/cask
 tap caskroom/cask
 brew brew-cask
+cask adobe-creative-cloud
+cask android-studio
+cask bettertouchtool
+cask boot2docker
+cask dropbox
+cask firefox
+cask genymotion
+cask google-chrome
+cask google-japanese-ime
+cask heroku-toolbelt
+cask java
+cask keycastr
+cask processing
+cask qlcolorcode
+cask qlimagesize
+cask qlmarkdown
+cask qlstephen
+cask quicklook-csv
+cask quicklook-json
+cask rstudio
+cask sequel-pro
+cask skype
+cask sourcetree
+cask sublime-text
+cask vagrant-manager
+cask vagrant
+cask virtualbox
+cask xquartz
+cask cocoapods
+
+## homebrew/science
+tap homebrew/science
+brew r
+
+## suin/suin
+tap suin/suin
+brew kobito-cli
 
 # Other Homebrew packages
 brew autoconf
@@ -46,97 +81,17 @@ brew android-sdk
 brew macvim
 brew tmux
 brew nmap
-# share clipboard between OS <-> tmux
+brew memcached
+brew libmemcached
 brew reattach-to-user-namespace
-# git
 brew git
 brew hub
 brew tig
-
-# R lang
-tap homebrew/science
 brew gcc
-brew r
-cask xquartz
-cask rstudio
+brew redis
 
-# kobito
-tap suin/suin
-brew kobito-cli
+#ruby
+brew rbenv
+brew ruby-build
+brew rbenv-gem-rehash
 
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask ==> We need to make Caskroom for the first time at /opt/homebrew-cask/Caskroom
-#cask ==> We'll set permissions properly so we won't need sudo in the future
-#cask Warning: nothing to list
-cask google-chrome
-cask google-japanese-ime
-cask dropbox
-cask sequel-pro
-cask bettertouchtool
-cask virtualbox
-cask firefox
-cask heroku-toolbelt
-cask skype
-cask github
-cask vagrant
-cask vagrant-manager
-cask adobe-creative-cloud
-cask java
-cask android-studio
-cask genymotion
-cask sublime-text
-cask sourcetree
-cask boot2docker
-cask keycastr
-cask processing
-#Quicklook
-cask qlcolorcode
-cask qlstephen
-cask qlmarkdown
-cask quicklook-json
-cask quicklook-csv
-cask qlimagesize
-
-# App Store applications
-appstore Airmail
-appstore Airwaves
-appstore Beacon Scan
-appstore CameraBag 2
-appstore CheatSheet
-appstore CodeRunner
-appstore Dash
-appstore Day One
-appstore Evernote
-appstore Fantastical
-appstore FreeMemory
-appstore GarageBand
-appstore iMovie
-appstore iPhoto
-appstore Keynote
-appstore Kobito
-appstore LINE
-appstore MenuPop
-appstore MPlayerX
-appstore OmniGraffle
-appstore OmniPlan
-appstore Pages
-appstore Pocket Planes
-appstore Pocket
-appstore PopHub
-appstore Reeder
-appstore Sauce
-appstore Shazam
-appstore Skitch
-appstore Slack
-appstore SnippetsLab
-appstore SoundCloud
-appstore StuffIt Expander
-appstore Sunrise Calendar
-appstore The Unarchiver
-appstore Tweetbot
-appstore VideoGIF
-appstore WinArchiver Lite
-appstore Xccello
-appstore Xcode
