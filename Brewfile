@@ -18,7 +18,6 @@ brew brew-file
 
 ## caskroom/cask
 tap caskroom/cask
-brew brew-cask
 cask android-studio
 cask bettertouchtool
 cask boot2docker
