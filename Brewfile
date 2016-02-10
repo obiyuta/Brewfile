@@ -19,7 +19,6 @@ brew brew-file
 ## caskroom/cask
 tap caskroom/cask
 brew brew-cask
-cask adobe-creative-cloud
 cask android-studio
 cask bettertouchtool
 cask boot2docker
@@ -90,6 +89,7 @@ brew tig
 brew gcc
 brew redis
 brew opencv3
+brew sslscan
 
 #ruby
 brew rbenv
