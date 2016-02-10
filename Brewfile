@@ -89,6 +89,7 @@ brew hub
 brew tig
 brew gcc
 brew redis
+brew opencv3
 
 #ruby
 brew rbenv
