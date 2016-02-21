@@ -46,10 +46,12 @@ cask vagrant
 cask virtualbox
 cask xquartz
 cask cocoapods
+cask alcatraz
 
 ## homebrew/science
 tap homebrew/science
 brew r
+brew opencv3
 
 ## suin/suin
 tap suin/suin
@@ -87,8 +89,8 @@ brew hub
 brew tig
 brew gcc
 brew redis
-brew opencv3
 brew sslscan
+brew swiftlint
 
 #ruby
 brew rbenv
