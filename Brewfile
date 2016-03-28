@@ -91,6 +91,7 @@ brew gcc
 brew redis
 brew sslscan
 brew swiftlint
+brew ncurses
 
 #ruby
 brew rbenv
