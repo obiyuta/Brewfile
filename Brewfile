@@ -1,4 +1,4 @@
-
+# -> /usr/local/Library/
 # tap repositories and their packages
 
 ## homebrew/dupes
@@ -92,6 +92,10 @@ brew redis
 brew sslscan
 brew swiftlint
 brew ncurses
+brew carthage
+brew mergepbx
+brew coreutils
+brew nvm
 
 #ruby
 brew rbenv
