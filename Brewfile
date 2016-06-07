@@ -1,12 +1,14 @@
-# -> /usr/local/Library/
+
 # tap repositories and their packages
 
 ## homebrew/dupes
 tap homebrew/dupes
+brew ncurses
 brew zlib
 
 ## homebrew/php
 tap homebrew/php
+brew php55-mcrypt
 
 ## marcqualie/nginx
 tap marcqualie/nginx
@@ -18,9 +20,11 @@ brew brew-file
 
 ## caskroom/cask
 tap caskroom/cask
+cask alcatraz
 cask android-studio
 cask bettertouchtool
 cask boot2docker
+cask cocoapods
 cask dropbox
 cask firefox
 cask genymotion
@@ -45,60 +49,54 @@ cask vagrant-manager
 cask vagrant
 cask virtualbox
 cask xquartz
-cask cocoapods
-cask alcatraz
 
 ## homebrew/science
 tap homebrew/science
-brew r
 brew opencv3
+brew r
 
 ## suin/suin
 tap suin/suin
 brew kobito-cli
 
 # Other Homebrew packages
+brew android-sdk
 brew autoconf
 brew automake
+brew carthage
+brew coreutils
 brew freetype
+brew gcc
 brew gettext
+brew git
 brew gnu-tar
+brew hub
 brew hub
 brew icu4c
 brew jpeg
+brew libmemcached
 brew libpng
 brew libtool
+brew macvim
 brew makedepend
 brew markdown
 brew mcrypt
+brew memcached
+brew mergepbx
 brew mhash
+brew nmap
+brew nvm
 brew openssl
 brew pcre
 brew pkg-config
-brew tree
-brew unixodbc
-brew android-sdk
-brew macvim
-brew tmux
-brew nmap
-brew memcached
-brew libmemcached
+brew rbenv
+brew rbenv-gem-rehash
 brew reattach-to-user-namespace
-brew git
-brew hub
-brew tig
-brew gcc
 brew redis
+brew ruby-build
 brew sslscan
 brew swiftlint
-brew ncurses
-brew carthage
-brew mergepbx
-brew coreutils
-brew nvm
-
-#ruby
-brew rbenv
-brew ruby-build
-brew rbenv-gem-rehash
-
+brew tig
+brew tmux
+brew tree
+brew unixodbc
