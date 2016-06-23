@@ -49,6 +49,7 @@ cask vagrant-manager
 cask vagrant
 cask virtualbox
 cask xquartz
+cask wkhtmltopdf
 
 ## homebrew/science
 tap homebrew/science
