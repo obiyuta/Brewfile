@@ -20,6 +20,7 @@ brew brew-file
 
 ## caskroom/cask
 tap caskroom/cask
+cask atom
 cask alcatraz
 cask android-studio
 cask bettertouchtool
