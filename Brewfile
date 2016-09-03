@@ -1,5 +1,6 @@
 
 # tap repositories and their packages
+# @todo http://rcmdnk.github.io/blog/2016/06/28/comptuer-mac-homebrew-brew-file/
 
 # bash
 # http://qiita.com/seiiichi_o/items/545572971416fc6d4cf0
