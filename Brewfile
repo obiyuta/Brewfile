@@ -1,6 +1,10 @@
 
 # tap repositories and their packages
 
+# bash
+# http://qiita.com/seiiichi_o/items/545572971416fc6d4cf0
+brew bash
+
 ## homebrew/dupes
 tap homebrew/dupes
 brew ncurses
@@ -56,6 +60,10 @@ cask wkhtmltopdf
 tap homebrew/science
 brew opencv3
 brew r
+
+## homebew/completions
+tap homebrew/completions
+brew apm-bash-completion
 
 ## suin/suin
 tap suin/suin
