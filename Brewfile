@@ -1,10 +1,5 @@
 
 # tap repositories and their packages
-# @todo http://rcmdnk.github.io/blog/2016/06/28/comptuer-mac-homebrew-brew-file/
-
-# bash
-# http://qiita.com/seiiichi_o/items/545572971416fc6d4cf0
-brew bash
 
 ## homebrew/dupes
 tap homebrew/dupes
@@ -25,21 +20,20 @@ brew brew-file
 
 ## caskroom/cask
 tap caskroom/cask
-cask atom
 cask alcatraz
 cask android-studio
+cask atom
 cask bettertouchtool
 cask boot2docker
-cask cocoapods
 cask dropbox
 cask firefox
 cask genymotion
 cask google-chrome
 cask google-japanese-ime
-cask heroku-toolbelt
 cask java
 cask keycastr
-cask processing
+cask kindlegen
+cask kindlepreviewer
 cask qlcolorcode
 cask qlimagesize
 cask qlmarkdown
@@ -50,19 +44,20 @@ cask rstudio
 cask sequel-pro
 cask skype
 cask sourcetree
+cask spotify
 cask sublime-text
 cask vagrant-manager
 cask vagrant
 cask virtualbox
-cask xquartz
 cask wkhtmltopdf
+cask xquartz
 
 ## homebrew/science
 tap homebrew/science
 brew opencv3
 brew r
 
-## homebew/completions
+## homebrew/completions
 tap homebrew/completions
 brew apm-bash-completion
 
@@ -71,6 +66,10 @@ tap suin/suin
 brew kobito-cli
 
 # Other Homebrew packages
+brew bash
+brew pyenv
+brew pyenv-virtualenv
+brew jrnl
 brew android-sdk
 brew autoconf
 brew automake
@@ -111,3 +110,4 @@ brew tig
 brew tmux
 brew tree
 brew unixodbc
+brew git-lfs
