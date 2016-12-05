@@ -111,3 +111,6 @@ brew tmux
 brew tree
 brew unixodbc
 brew git-lfs
+brew phantomjs
+brew pow
+
