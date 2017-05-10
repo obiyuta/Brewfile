@@ -98,6 +98,7 @@ cask android-studio
 cask atom
 cask bettertouchtool
 cask boostnote
+cask keybase
 cask docker
 cask dropbox
 cask firefox
