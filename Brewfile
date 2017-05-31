@@ -27,6 +27,7 @@ tap suin/suin
 
 # Other Homebrew packages
 brew android-sdk
+brew awscli
 brew apm-bash-completion
 brew autoconf
 brew automake
