@@ -39,6 +39,7 @@ brew carthage
 brew coreutils
 brew figlet
 brew freetype
+brew graphviz
 brew gcc
 brew gettext
 brew git
