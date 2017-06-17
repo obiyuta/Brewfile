@@ -39,6 +39,7 @@ brew carthage
 brew coreutils
 brew figlet
 brew freetype
+brew grep
 brew graphviz
 brew gcc
 brew gettext
@@ -77,6 +78,7 @@ brew pkg-config
 brew pow
 brew pyenv
 brew pyenv-virtualenv
+brew unison
 brew r
 brew rbenv
 brew rbenv-gem-rehash
@@ -86,6 +88,7 @@ brew ruby-build
 brew sslscan
 brew swiftlint
 brew tig
+brew through
 brew tmux
 brew tree
 brew unixodbc
