@@ -1,11 +1,23 @@
 
 # tap repositories and their packages
 
+## Homebrew/bundle
+tap Homebrew/bundle
+
+## caskroom/cask
+tap caskroom/cask
+
+## homebrew/completions
+tap homebrew/completions
+
 ## homebrew/dupes
 tap homebrew/dupes
 
 ## homebrew/php
 tap homebrew/php
+
+## homebrew/science
+tap homebrew/science
 
 ## marcqualie/nginx
 tap marcqualie/nginx
@@ -13,24 +25,15 @@ tap marcqualie/nginx
 ## rcmdnk/file
 tap rcmdnk/file
 
-## caskroom/cask
-tap caskroom/cask
-
-## homebrew/science
-tap homebrew/science
-
-## homebrew/completions
-tap homebrew/completions
-
 ## suin/suin
 tap suin/suin
 
 # Other Homebrew packages
 brew android-sdk
-brew awscli
 brew apm-bash-completion
 brew autoconf
 brew automake
+brew awscli
 brew bash
 brew bash-completion
 brew bash-git-prompt
@@ -39,14 +42,14 @@ brew carthage
 brew coreutils
 brew figlet
 brew freetype
-brew grep
-brew graphviz
 brew gcc
 brew gettext
 brew git
 brew git-lfs
 brew gmp
 brew gnu-tar
+brew graphviz
+brew grep
 brew hub
 brew hub
 brew icu4c
@@ -60,6 +63,7 @@ brew libtool
 brew macvim
 brew makedepend
 brew markdown
+brew mas
 brew mcrypt
 brew memcached
 brew mergepbx
@@ -78,7 +82,6 @@ brew pkg-config
 brew pow
 brew pyenv
 brew pyenv-virtualenv
-brew unison
 brew r
 brew rbenv
 brew rbenv-gem-rehash
@@ -87,10 +90,11 @@ brew redis
 brew ruby-build
 brew sslscan
 brew swiftlint
-brew tig
 brew through
+brew tig
 brew tmux
 brew tree
+brew unison
 brew unixodbc
 brew watch
 brew yarn
