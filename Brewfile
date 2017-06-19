@@ -76,7 +76,6 @@ brew "marcqualie/nginx/nginx-full", args: ["with-sub"]
 brew "rcmdnk/file/brew-file"
 brew "suin/suin/kobito-cli"
 cask "alcatraz"
-cask "alfred"
 cask "android-studio"
 cask "atom"
 cask "bettertouchtool"
