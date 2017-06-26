@@ -7,16 +7,15 @@ cask 'alfred'
 cask 'android-studio'
 cask 'atom'
 cask 'bettertouchtool'
+cask 'dash'
 cask 'docker'
 cask 'dropbox'
 cask 'firefox'
-# cask 'franz'
 cask 'genymotion'
 cask 'google-chrome'
 cask 'google-japanese-ime'
 cask 'java'
 cask 'kap'
-# cask 'keybase'
 cask 'kindlegen'
 cask 'qlcolorcode'
 cask 'qlimagesize'
@@ -31,8 +30,6 @@ cask 'sketch'
 cask 'skype'
 cask 'slack'
 cask 'sourcetree'
-cask 'spotify'
-# cask 'sublime-text'
 cask 'vagrant-manager'
 cask 'vagrant'
 cask 'virtualbox'
@@ -121,11 +118,10 @@ tap 'marcqualie/nginx'
 brew 'marcqualie/nginx/nginx-full', args: ['with-sub']
 
 mas "1Password", id: 443987910
-mas "Airmail", id: 573171375
 mas "Airwaves", id: 595222744
 mas "Beacon Scan", id: 995724474
 mas "CloudApp", id: 417602904
-mas "Dash", id: 449589707
+mas "CodeRunner", id: 433335799
 mas "Day One", id: 1055511498
 mas "Evernote", id: 406056744
 mas "FreeMemory", id: 460931672
