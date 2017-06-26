@@ -118,7 +118,6 @@ tap 'marcqualie/nginx'
 brew 'marcqualie/nginx/nginx-full', args: ['with-sub']
 
 mas '1Password', id: 443987910
-mas 'Airwaves', id: 595222744
 mas 'Airmail', id: 573171375
 mas 'Beacon Scan', id: 995724474
 mas 'CloudApp', id: 417602904
