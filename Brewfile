@@ -142,7 +142,6 @@ mas 'Reeder', id: 439845554
 mas 'Sauce', id: 564308477
 mas 'Shazam', id: 897118787
 mas 'Skitch', id: 425955336
-mas 'Slack', id: 803453959
 mas 'SoundCloud', id: 412754595
 mas 'StuffIt Expander', id: 405580712
 mas 'The Duplicate Finder', id: 654667344
