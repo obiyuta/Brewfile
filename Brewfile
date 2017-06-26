@@ -47,6 +47,9 @@ tap 'homebrew/bundle'
 tap 'homebrew/completions'
 
 tap 'homebrew/core'
+
+mas "Xcode", id: 497799835
+
 brew 'apm-bash-completion'
 brew 'autoconf'
 brew 'automake'
@@ -117,3 +120,40 @@ brew 'homebrew/science/r'
 tap 'marcqualie/nginx'
 brew 'marcqualie/nginx/nginx-full', args: ['with-sub']
 
+mas "1Password", id: 443987910
+mas "Airmail", id: 573171375
+mas "Airwaves", id: 595222744
+mas "Beacon Scan", id: 995724474
+mas "CloudApp", id: 417602904
+mas "CodeRunner", id: 433335799
+mas "Dash", id: 449589707
+mas "Day One", id: 1055511498
+mas "Evernote", id: 406056744
+mas "FreeMemory", id: 460931672
+mas "GarageBand", id: 682658836
+mas "iMovie", id: 408981434
+mas "Keynote", id: 409183694
+mas "Kobito", id: 896624060
+mas "LanScan", id: 472226235
+mas "LINE", id: 539883307
+mas "MenuPop", id: 404747434
+mas "MPlayerX", id: 421131143
+mas "Numbers", id: 409203825
+mas "OmniGraffle", id: 711830901
+mas "Pages", id: 409201541
+mas "Pocket", id: 568494494
+mas "PopHub", id: 928494006
+mas "Quiver", id: 866773894
+mas "Realm Browser", id: 1007457278
+mas "Reeder", id: 439845554
+mas "Sauce", id: 564308477
+mas "Shazam", id: 897118787
+mas "Skitch", id: 425955336
+mas "Slack", id: 803453959
+mas "SoundCloud", id: 412754595
+mas "StuffIt Expander", id: 405580712
+mas "The Duplicate Finder", id: 654667344
+mas "The Unarchiver", id: 425424353
+mas "Tweetbot", id: 557168941
+mas "VideoGIF", id: 807363401
+mas "WinArchiver Lite", id: 414855915
