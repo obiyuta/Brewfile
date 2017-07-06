@@ -127,7 +127,6 @@ mas '1Password', id: 443987910
 mas 'Airmail', id: 573171375
 mas 'Beacon Scan', id: 995724474
 mas 'CloudApp', id: 417602904
-mas 'CodeRunner', id: 433335799
 mas 'Day One', id: 1055511498
 mas 'Evernote', id: 406056744
 mas 'FreeMemory', id: 460931672
