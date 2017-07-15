@@ -105,6 +105,7 @@ brew 'tmux'
 brew 'tree'
 brew 'unison'
 brew 'unixodbc'
+brew 'vim', args: ['with-lua']
 brew 'watch'
 brew 'xz'
 brew 'yarn'
