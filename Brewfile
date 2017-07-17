@@ -40,6 +40,9 @@ cask 'virtualbox'
 cask 'visual-studio-code'
 cask 'xquartz'
 
+tap 'caskroom/fonts'
+cask 'font-hack-nerd-font'
+
 tap 'eugenmayer/dockersync'
 brew 'eugenmayer/dockersync/unox'
 
@@ -48,6 +51,8 @@ tap 'homebrew/bundle'
 tap 'homebrew/completions'
 
 tap 'homebrew/core'
+
+tap 'sanemat/font'
 
 mas 'Xcode', id: 497799835
 
@@ -98,6 +103,7 @@ brew 'pyenv-virtualenv'
 brew 'rbenv'
 brew 'reattach-to-user-namespace'
 brew 'redis'
+brew 'ricty', args: ['vim-powerline', 'powerline']
 brew 'sslscan'
 brew 'swiftlint'
 brew 'tig'
