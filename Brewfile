@@ -35,7 +35,7 @@ cask 'virtualbox'
 cask 'visual-studio-code'
 cask 'xquartz'
 
-tap 'caskroom/fonts'
+tap 'homebrew/cask-fonts'
 cask 'font-hack-nerd-font'
 cask 'font-lato'
 
