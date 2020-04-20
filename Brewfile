@@ -109,6 +109,7 @@ brew 'watch'
 brew 'xz'
 brew 'yarn'
 brew 'zlib'
+brew 'zoomus'
 
 tap 'marcqualie/nginx'
 brew 'marcqualie/nginx/nginx-full', args: ['with-sub']
